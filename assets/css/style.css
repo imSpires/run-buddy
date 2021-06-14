@@ -261,4 +261,21 @@ header {
 
 }
 
+.contact-info h3 {
+    font-size: 32px;
+    color: #fce138;
+}
+
+.contact-info p, .contact-info address {
+    margin: 20px 0;
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 35px;
+    font-style: normal;
+}
+
+
+.contact-info div address a {
+    color: #fce138;
+}
 /* Contact section end */
