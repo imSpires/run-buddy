@@ -12,3 +12,5 @@ https://imSpires.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [imSpires]
+
+### ©️2019 Run Buddy, Inc 
